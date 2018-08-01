@@ -1,4 +1,4 @@
 <?php 
-show_source(__FILE__);
+show_source("index.php");
 echo htmlentities(file_get_contents(__FILE__));
 ?>
