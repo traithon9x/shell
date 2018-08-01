@@ -1,3 +1,6 @@
 <?php
-show_source(__FILE__);
+show_source("en_lang.php");
+echo "\n";
+show_source("index.php");
+
 ?>
