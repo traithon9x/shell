@@ -1,4 +1,4 @@
 <?php
-echo exec("ls");
+show_source(__FILE__);
 
 ?>
